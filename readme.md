@@ -24,6 +24,7 @@ Num mundo onde a indústria musical é extremamente competitiva e em constante e
 Neste contexto, uma gravadora enfrenta o emocionante desafio de **lançar um novo artista** no cenário musical global. Felizmente, ela tem uma ferramenta poderosa em seu arsenal: um extenso conjunto de dados do Spotify com informações sobre as **músicas mais ouvidas em 2023**.
 
 Com base nas hipóteses desenvolvidas pela gravadora, será validado ou refutado através da análise de dados e fornecer recomendações estratégicas com base nas descobertas. 
+
 ---
 
 
