@@ -57,7 +57,7 @@ O objetivo principal desta análise é que a **gravadora e o novo artista possam
 ---
 
 ## 🔧 **Ferramentas e Tecnologias** 
-- ferramentas de visualização : Power BI.
+- Ferramentas de visualização : Power BI.
 - Linguagens: SQL e Python.
 - Ferramentas: BigQuery, Google Colab.
 ---
@@ -68,18 +68,18 @@ O objetivo principal desta análise é que a **gravadora e o novo artista possam
 
 ---
 
-## **Processamento e análises**
+## 🔎 **Processamento e análises**
 
 
 
 ---
 
-## **Resultados e Conclusões**
+## 💡 **Resultados e Conclusões**
  
  
 ---
 
-## **Painel de controle (dashboard) no Google Sheets**
+## 📊 **Painel de controle (dashboard) no Power BI**
 
 
 
