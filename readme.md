@@ -34,11 +34,11 @@ Explorar a analise dos dados, destacando como isso ajuda a melhorar a compreens�
 
 A gravadora levantou uma série de hipóteses sobre o que faz uma música seja mais ouvida. Essas hipóteses incluem:
 
-- Hipótese 1: Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify.
-- Hipótese 2: As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas, como a Deezer.
-- Hipótese 3: A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams.
-- Hipótese 4: Artistas com um maior número de músicas no Spotify têm mais streams.
-- Hipótese 5: As características da música influenciam o sucesso em termos de número de streams no Spotify.
+- **Hipótese 1:** Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify.
+- **Hipótese 2:** As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas, como a Deezer.
+- **Hipótese 3:** A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams.
+- **Hipótese 4:** Artistas com um maior número de músicas no Spotify têm mais streams.
+- **Hipótese 5:** As características da música influenciam o sucesso em termos de número de streams no Spotify.
 
 O objetivo principal desta análise é que a **gravadora e o novo artista possam tomar decisões que aumentem suas chances de alcançar o sucesso**.
 
