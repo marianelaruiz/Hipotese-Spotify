@@ -40,9 +40,7 @@ A gravadora levantou uma série de hipóteses sobre o que faz uma música seja m
 - Hipótese 4: Artistas com um maior número de músicas no Spotify têm mais streams.
 - Hipótese 5: As características da música influenciam o sucesso em termos de número de streams no Spotify.
 
-O objetivo principal desta análise é que a **gravadora e o novo artista possam tomar decisões** 
-
- **que aumentem suas chances de alcançar o sucesso**.
+O objetivo principal desta análise é que a **gravadora e o novo artista possam tomar decisões que aumentem suas chances de alcançar o sucesso**.
 
 
 ---
