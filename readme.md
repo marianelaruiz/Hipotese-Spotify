@@ -88,3 +88,6 @@ O objetivo principal desta análise é que a **gravadora e o novo artista possam
 ---
 
 ## **Referências**
+
+- https://repositorio.uac.pt/bitstream/10400.3/5365/1/Sousa_CA_21%20Mar%C3%A7o%202019.pdf
+- https://cienciadedatos.net/documentos/py10-regresion-lineal-python
