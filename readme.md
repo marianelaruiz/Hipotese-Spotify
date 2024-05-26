@@ -90,8 +90,6 @@ Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis 
 
 ## 📊 **Painel de controle (dashboard) no Power BI**
 
-
-
 <img src="img/dashboard.png" alt="Alt text" width="800" height="500">
 
 ---
