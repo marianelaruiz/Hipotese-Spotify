@@ -1,5 +1,5 @@
 
-# 🥑 Segmentação "O mercado" 🥑
+# 🎶 Hipótese - Spotify 🎶
 
 ### **Tabela de conteudos**
 - [🎶 Hipótese - Spotify 🎶](#-segmentacao-mercado)    
@@ -26,16 +26,23 @@ A estratégia escolhida pela loja é analisar suas vendas e segmentar a sua base
 ---
 
 
-## **Objetivo**
+## 🎯 **Objetivo**
 
-Aplicar a segmentação de clientes através do RFM para compreender o resultado da segmentação e em quais grupos a empresa pode concentrar esforços e/ou traçar estratégias de fidelização.
+Explorar a analise dos dados, destacando como isso ajuda a melhorar a compreensão dos fenômenos, apoiar pesquisas e tomar decisões acertadas. 
 
-Esse objetivo é alcançado por meio dos seguintes subobjetivos:
+Neste contexto, uma gravadora enfrenta o desafio de lançar um **novo artista** no cenário musical global. Felizmente ela tem uma ferramenta poderosa em seu arsenal: um extenso conjunto de dados do Spotify com informações sobre as **músicas mais ouvidas em 2023**.
 
-- Identificar quem são esses clientes.
-- Identificar se eles são casados, se têm filhos e qual é a idade deles.
-- Identificar qual é o volume de vendas da empresa (em quantidade).
-- Identificar uma relação entre os perfis dos clientes e os produtos que eles mais compram.
+A gravadora levantou uma série de hipóteses sobre o que faz uma música seja mais ouvida. Essas hipóteses incluem:
+
+- Hipótese 1: Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify.
+- Hipótese 2: As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas, como a Deezer.
+- Hipótese 3: A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams.
+- Hipótese 4: Artistas com um maior número de músicas no Spotify têm mais streams.
+- Hipótese 5: As características da música influenciam o sucesso em termos de número de streams no Spotify.
+
+O objetivo principal desta análise é que a **gravadora e o novo artista possam tomar decisões** 
+
+ **que aumentem suas chances de alcançar o sucesso**.
 
 
 ---
