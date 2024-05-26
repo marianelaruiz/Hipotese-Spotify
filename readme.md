@@ -92,7 +92,7 @@ Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis 
 
 
 
-<!-- <img src="img/img-dashboard.png" alt="Alt text" width="800" height="500"> -->
+<img src="img/dashboard.png" alt="Alt text" width="800" height="500">
 
 ---
 
