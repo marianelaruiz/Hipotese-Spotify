@@ -17,7 +17,7 @@
 
 ---
 
-## **Introdução**
+## 📖 **Introdução**
 
 Num mundo onde a indústria musical é extremamente competitiva e em constante evolução, a capacidade de tomar decisões baseadas em dados tornou-se um ativo inestimável.
 
