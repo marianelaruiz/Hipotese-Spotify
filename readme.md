@@ -94,6 +94,10 @@ A partir da análise realizada neste projeto, usando análise exploratória, tes
 - As variáveis do estudo não seguem uma distribuição normal, por isso optamos por aplicar o teste U de Mann-Whitney, um teste não paramétrico que compara as distribuições de dois grupos independentes. Nesse caso, ele foi usado para comparar músicas com diferentes faixas de BPM. Foi obtido um valor p de 0,6299027679552872 maior que o nível de significância (0,05), indicando que não há evidência suficiente para rejeitar a hipótese nula, o que significa que não há diferenças significativas no número de transmissões entre músicas com diferentes BPM. Esses resultados sugerem que outros fatores além do BPM podem ser mais importantes para determinar o sucesso de uma música, já que a popularidade do artista, a promoção, o gênero, a letra e outros aspectos da produção musical podem ter um impacto maior.
  
  - Em resumo, BPM não é um indicador significativo do sucesso de uma música em termos de streams no Spotify. **Hipótese Rejeitada**.
+
+ ### Hipótese 2: As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas como Deezer e Apple.
+
+** Spotify chart e Deezer Charts**
 ---
 
 ## 📊 **Painel de controle (dashboard) no Power BI**
