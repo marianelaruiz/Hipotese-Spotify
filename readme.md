@@ -133,6 +133,8 @@ Os resultados da hipótese 4 são bastante claros e sugerem uma relação signif
 
 - Em resumo, a análise mostra uma relação forte e significativa entre o número total de músicas de um artista no Spotify e o número total de streams que ele recebe. A forte correlação de Pearson e o R² significativo da regressão linear sugerem que ter um número maior de músicas é um fator de sucesso em termos de streams. Embora o número total de músicas explique grande parte da variabilidade dos streams (70%), também é importante considerar outros fatores que podem influenciar o sucesso de um artista, como a popularidade de cada música, as colaborações com outros artistas e as estratégias de marketing.**Hipótese parcialmente confirmada**.
 
+### Hipótese 5: As características da música influenciam o sucesso em termos de streams no Spotify.
+
 
 ---
 ## 📊 **Painel de controle (dashboard) no Power BI**
