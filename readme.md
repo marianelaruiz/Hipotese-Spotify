@@ -84,6 +84,8 @@ Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis 
 ---
 
 ## 💡 **Resultados e Conclusões**
+
+### Hipótese 1: Músicas com BPM (Beats Per Minute) mais altos fazem mais sucesso em termos de streams no Spotify
  
  
 ---
