@@ -57,9 +57,10 @@ O objetivo principal desta análise é que a **gravadora e o novo artista possam
 ---
 
 ## 🔧 **Ferramentas e Tecnologias** 
-- Ferramentas de visualização : Power BI.
-- Linguagens: SQL e Python.
 - Ferramentas: BigQuery, Google Colab.
+- Linguagens: SQL e Python.
+- Ferramentas de visualização : Power BI.
+
 ---
 
 ## 📈 **Fontes de dados**
@@ -88,8 +89,11 @@ Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis 
 A partir da análise realizada neste projeto, usando análise exploratória, testes estatísticos e regressão linear, analisei as características das músicas mais ouvidas no Spotify durante o ano de 2023. Uma série de hipóteses propostas pela gravadora foi validada para identificar as tendências que contribuem para o sucesso de uma música, com o objetivo de lançar um novo artista de acordo com as características do mercado.
 
 ### Hipótese 1: Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de streams no Spotify
+- Os resultados obtidos indicam uma ausência de correlação significativa, o valor da correlação de Pearson é:-0,0033105926438257737, muito próximo de 0, indicando que praticamente não há relação linear entre o BPM de uma música e o número de stremas que ela recebe. Essa baixa correlação sugere que o BPM não é um fator determinante no sucesso de uma música, medido pelo número de transmissões.
+
+- As variáveis do estudo não seguem uma distribuição normal, por isso optamos por aplicar o teste U de Mann-Whitney, um teste não paramétrico que compara as distribuições de dois grupos independentes. Nesse caso, ele foi usado para comparar músicas com diferentes faixas de BPM. Foi obtido um valor p de 0,6299027679552872 maior que o nível de significância (0,05), indicando que não há evidência suficiente para rejeitar a hipótese nula, o que significa que não há diferenças significativas no número de transmissões entre músicas com diferentes BPM. Esses resultados sugerem que outros fatores além do BPM podem ser mais importantes para determinar o sucesso de uma música, já que a popularidade do artista, a promoção, o gênero, a letra e outros aspectos da produção musical podem ter um impacto maior.
  
- 
+ - Em resumo, BPM não é um indicador significativo do sucesso de uma música em termos de streams no Spotify.
 ---
 
 ## 📊 **Painel de controle (dashboard) no Power BI**
