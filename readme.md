@@ -85,7 +85,9 @@ Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis 
 
 ## 💡 **Resultados e Conclusões**
 
-### Hipótese 1: Músicas com BPM (Beats Per Minute) mais altos fazem mais sucesso em termos de streams no Spotify
+A partir da análise realizada neste projeto, usando análise exploratória, testes estatísticos e regressão linear, analisei as características das músicas mais ouvidas no Spotify durante o ano de 2023. Uma série de hipóteses propostas pela gravadora foi validada para identificar as tendências que contribuem para o sucesso de uma música, com o objetivo de lançar um novo artista de acordo com as características do mercado.
+
+### Hipótese 1: Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de streams no Spotify
  
  
 ---
