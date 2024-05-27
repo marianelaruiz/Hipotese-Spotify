@@ -97,7 +97,7 @@ A partir da análise realizada neste projeto, usando análise exploratória, tes
 
  ### Hipótese 2: As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas como Deezer e Apple.
 
-#### Spotify chart e Deezer Charts
+#### **Spotify charts e Deezer Charts**
 ---
 
 ## 📊 **Painel de controle (dashboard) no Power BI**
