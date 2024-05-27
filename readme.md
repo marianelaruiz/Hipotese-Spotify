@@ -116,6 +116,16 @@ A partir da análise realizada neste projeto, usando análise exploratória, tes
 - Em resumo, a hipótese de que as músicas populares no Spotify também são populares na Apple está parcialmente confirmada. A correlação moderada sugere que há uma tendência significativa, embora não perfeita, de que as músicas que fazem sucesso em uma plataforma façam sucesso na outra. 
 
 ### Hipótese 3: A presença de uma música em um maior número de playlists está relacionada com um maior número de streams.
+
+Os resultados obtidos para a hipótese 3 são bastante reveladores e sugerem uma forte relação entre a presença de uma música nas listas de reprodução e seu número de streams.
+
+- Forte correlação significativa: a alta correlação de Pearson (0,7835372823802433), juntamente com o valor de p extremamente baixo (1,7265274903806566e-247), indica uma relação forte e significativa entre a presença em listas de reprodução e o número de streams.
+- Regressão linear útil, mas não exaustiva: o R² de 0,53 sugere que, embora o número de playlists em que uma música aparece seja um importante indicador do número de streams, outros fatores também desempenham um papel significativo.
+- Em resumo, as variáveis mostram uma relação forte e significativa entre a presença de uma música nas listas de reprodução e o número de streams que ela recebe de acordo com a forte correlação de Pearson. Entretanto, como o R² é de 0,53, também é importante considerar outros fatores que podem influenciar o número de streams.**Hipótese parcialmente confirmada**.
+
+
+
+
 ---
 ## 📊 **Painel de controle (dashboard) no Power BI**
 
