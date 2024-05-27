@@ -114,10 +114,9 @@ A partir da análise realizada neste projeto, usando análise exploratória, tes
 - Um valor de p-value: 4,9887224722760026e-67 baixo(muito menor que 0,05), indica que a correlação observada é altamente significativa.
 
 - Em resumo, a hipótese de que as músicas populares no Spotify também são populares na Apple está parcialmente confirmada. A correlação moderada sugere que há uma tendência significativa, embora não perfeita, de que as músicas que fazem sucesso em uma plataforma façam sucesso na outra. 
+
+### Hipótese 3: A presença de uma música em um maior número de playlists está relacionada com um maior número de streams.
 ---
-
- ### Hipótese 3: A presença de uma música em um maior número de playlists está relacionada com um maior número de streams.
-
 ## 📊 **Painel de controle (dashboard) no Power BI**
 
 <img src="img/dashboard.png" alt="Alt text" width="800" height="500">
