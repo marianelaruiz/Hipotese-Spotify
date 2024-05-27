@@ -98,6 +98,16 @@ A partir da análise realizada neste projeto, usando análise exploratória, tes
  ### Hipótese 2: As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas como Deezer e Apple.
 
 #### **Spotify charts e Deezer Charts**
+
+- A correlação de Spearman é uma medida não paramétrica que avalia a relação monotônica entre duas variáveis ordinais. O valor da correlação das variáveis foi: 0,5900663658867531, indicando uma correlação positiva moderada entre as posições nas classificações do Spotify e da Deezer. Isso sugere que as músicas que são populares no Spotify também tendem a ser populares no Deezer, embora não perfeitamente.
+
+- Um valor de p-value: 5.309451108676141e-90 extremamente baixo(muito inferior a 0,05), indica que a correlação observada é altamente significativa do ponto de vista estatístico. Isso significa que é extremamente improvável que a correlação observada se deva ao acaso, reforçando a validade da correlação positiva moderada observada.
+
+- Há uma correlação moderada significativa: a correlação de Spearman de 0,5901, combinada com um valor de p extremamente baixo, sugere que há uma relação estatisticamente significativa entre o sucesso das músicas no Spotify e na Deezer.
+
+- Em resumo, a hipótese de que as músicas populares no Spotify também são populares na Deezer está parcialmente confirmada. A correlação moderada sugere que há uma tendência significativa, embora não perfeita, de que as músicas que fazem sucesso em uma plataforma façam sucesso na outra. 
+
+#### **Spotify charts e Apple Charts**
 ---
 
 ## 📊 **Painel de controle (dashboard) no Power BI**
