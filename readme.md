@@ -99,9 +99,9 @@ A partir da análise realizada neste projeto, usando análise exploratória, tes
 
 #### **Spotify charts e Deezer Charts**
 
-- A correlação de Spearman é uma medida não paramétrica que avalia a relação monotônica entre duas variáveis ordinais. O valor da correlação das variáveis foi: 0,5900663658867531, indicando uma correlação positiva moderada entre as posições nas classificações do Spotify e da Deezer. Isso sugere que as músicas que são populares no Spotify também tendem a ser populares no Deezer, embora não perfeitamente.
+- A correlação de Spearman é uma medida não paramétrica que avalia a relação monotônica entre duas variáveis ordinais. O valor da correlação das variáveis foi: 0,5900663658867531, indicando uma correlação positiva moderada entre as posições nos rankings do Spotify e da Deezer. Isso sugere que as músicas que são populares no Spotify também tendem a ser populares no Deezer, embora não perfeitamente.
 
-- Um valor de p-value: 5.309451108676141e-90 extremamente baixo(muito inferior a 0,05), indica que a correlação observada é altamente significativa do ponto de vista estatístico. Isso significa que é extremamente improvável que a correlação observada se deva ao acaso, reforçando a validade da correlação positiva moderada observada.
+- Um valor de p-value: 5.309451108676141e-90 baixo(muito inferior a 0,05), indica que a correlação observada é altamente significativa do ponto de vista estatístico. Isso significa que é extremamente improvável que a correlação observada se deva ao acaso, reforçando a validade da correlação positiva moderada observada.
 
 - Há uma correlação moderada significativa: a correlação de Spearman de 0,5900663658867531, combinada com um valor de p extremamente baixo, sugere que há uma relação estatisticamente significativa entre o sucesso das músicas no Spotify e na Deezer.
 
@@ -109,9 +109,9 @@ A partir da análise realizada neste projeto, usando análise exploratória, tes
 
 #### **Spotify charts e Apple Charts**
 
-- A correlação de Spearman é uma medida não paramétrica que avalia a relação monotônica entre duas variáveis ordinais. O valor da correlação das variáveis foi: 0.520808671061685, esse valor indica uma correlação positiva moderada entre as posições das músicas nas classificações do Spotify e do Apple Music, embora não seja perfeita.
+- A correlação de Spearman é uma medida não paramétrica que avalia a relação monotônica entre duas variáveis ordinais. O valor da correlação das variáveis foi: 0.520808671061685, esse valor indica uma correlação positiva moderada entre as posições das músicas nos rankings do Spotify e do Apple Music, embora não seja perfeita.
 
-- Um valor p de: 4,9887224722760026e-67, extremamente baixo (muito menor que 0,05), indica que a correlação observada é altamente significativa.
+- Um valor de p-value: 4,9887224722760026e-67 baixo(muito menor que 0,05), indica que a correlação observada é altamente significativa.
 
 - Em resumo, a hipótese de que as músicas populares no Spotify também são populares na Apple está parcialmente confirmada. A correlação moderada sugere que há uma tendência significativa, embora não perfeita, de que as músicas que fazem sucesso em uma plataforma façam sucesso na outra. 
 ---
