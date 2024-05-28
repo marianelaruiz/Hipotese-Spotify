@@ -169,22 +169,6 @@ Com base nos resultados das hipóteses analisadas, apresentamos aqui uma série 
   - Evidência: A análise de dados pode fornecer informações valiosas sobre o que está funcionando e o que não está.
   - Estratégia: Implemente um sistema de monitoramento contínuo das métricas de desempenho das músicas.
   - Ação: Use as ferramentas de análise do Spotify for Artists, bem como serviços de terceiros, para obter dados detalhados sobre os ouvintes, sua localização e hábitos de escuta. Ajuste as estratégias de marketing e promoção de acordo.
-
-<!-- Diversificação do Conteúdo Musical: Embora as características das músicas não demonstram uma influência clara no número de streams, é importante diversificar o conteúdo musical para atrair uma ampla audiência. É recomendável experimentar criar músicas com diferentes estilos, ritmos e letras para atingir diferentes públicos-alvo.
-
-Aproveitar Plataformas de Playlist: A presença em playlists é um fator significativo para o sucesso no Spotify. Portanto, é recomendável concentrar-se em promover músicas para curadores de playlists (responsável por criar as playlists editoriais da maneira mais segmentada possível, casando com o público alvo daquele gênero e organizando as músicas que fazem sentido estar dentro da playlist) e tentar garantir inclusões em playlists populares. Isso pode ser feito através de networking, promoção ativa e envio direto das músicas do novo artista para os curadores.
-
-Engajamento com a Audiência: É recomendável construir uma forte presença nas redes sociais e interagir regularmente com a base de fãs. Respondendo a comentários, participando de conversas e compartilhando conteúdos exclusivos para manter os fãs engajados e criar uma comunidade em torno da música do novo artista.
-
-Replicação de Estratégias Bem-Sucedidas: Observar a correlação positiva entre as músicas mais populares no Spotify e seu desempenho nas plataformas Deezer e Apple sugere que estratégias bem-sucedidas no Spotify podem ser replicadas em outras plataformas de streaming. A gravadora pode explorar essas oportunidades para maximizar o alcance do novo artista e aumentar sua base de fãs em diferentes plataformas.
-
-Análise Contínua de Dados: É recomendável se manter atualizado com as tendências do mercado musical e analisar continuamente os dados de streaming das músicas do novo artista. Isso permitirá ajustes e adaptações em sua estratégia conforme necessário para maximizar seu potencial de sucesso.
-
-Colaborações com Artistas Reconhecidos: Se possível sugerimos parcerias com artistas já estabelecidos que podem ajudar a aumentar a visibilidade do novo artista. Procure colaborações com artistas que tenham um grande número de seguidores nas plataformas de streaming, o que pode levar a um aumento no número de streams.
-
-Ao implementar essas sugestões e permanecer flexível e adaptável ao ambiente em constante mudança da indústria musical, o novo artista terá uma melhor chance de alcançar o sucesso desejado. -->
-
-
 ---
 ## 📊 **Painel de controle (dashboard) no Power BI**
 
