@@ -173,6 +173,9 @@ Com base nos resultados das hipóteses analisadas, apresentamos aqui uma série 
 Para que a gravadora e o novo artista aumentem suas chances de sucesso, eles devem se concentrar em maximizar a presença de suas músicas nas listas de reprodução, expandir seu catálogo de músicas, promover suas músicas em várias plataformas e usar estratégias robustas de marketing digital. Além disso, eles devem aproveitar a análise de dados para tomar decisões informadas e explorar colaborações estratégicas para aumentar sua visibilidade. Além disso, as redes sociais de um artista, especialmente Instagram, YouTube, Tik Tok, Twitter e agora também Twitch, são ferramentas muito importantes para promover a música. Essas ações combinadas podem aumentar significativamente suas chances de alcançar um número maior de streams.
 
 ---
+<!-- ## **Limitações/Próximos Passos** -->
+
+---
 
 ## 📊 **Painel de controle (dashboard) no Power BI**
 
