@@ -135,6 +135,14 @@ Os resultados da hipótese 4 são bastante claros e sugerem uma relação signif
 
 ### Hipótese 5: As características da música influenciam o sucesso em termos de streams no Spotify.
 
+- Correlações fracas: todos os coeficientes de correlação estão próximos de 0, uma relação muito fraca, indicando que não há relação significativa entre as características musicais analisadas e o número de streams.
+
+- Teste de Significância: Optamos por realizar o teste U de Mann-Whitney para entender se havia um comportamento diferente entre os grupos e o número de streams das canções. Apenas a variável "danceability" apresentou uma pequena diferença significativa entre suas categorias e o número de streams. Isso indica quão apropriada é a canção para dançar e se tem alguma influência no número de streams, mas as outras características não demonstraram uma diferença significativa.
+
+- Considerando os resultados dos testes estatísticos, optou-se por refutar a hipótese de que as características das músicas influenciam o sucesso em termos de número de streams no Spotify. Embora algumas características, como "danceability", pareçam ter impacto, outras não demonstraram uma associação clara com o número de streams.**Hipótese refutada**.
+
+💡 Recomendações
+
 
 ---
 ## 📊 **Painel de controle (dashboard) no Power BI**
