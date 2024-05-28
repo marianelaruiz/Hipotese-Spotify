@@ -89,9 +89,9 @@ Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis 
 A partir da análise realizada neste projeto, usando análise exploratória, testes estatísticos e regressão linear, analisei as características das músicas mais ouvidas no Spotify durante o ano de 2023. Uma série de hipóteses propostas pela gravadora foi validada para identificar as tendências que contribuem para o sucesso de uma música, com o objetivo de lançar um novo artista de acordo com as características do mercado.
 
 ### Hipótese 1: Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de streams no Spotify
-- Os resultados obtidos indicam uma ausência de correlação significativa, o valor da correlação de Pearson é:-0,0033105926438257737, muito próximo de 0, indicando que praticamente não há relação linear entre o BPM de uma música e o número de stremas que ela recebe. Essa baixa correlação sugere que o BPM não é um fator determinante no sucesso de uma música, medido pelo número de transmissões.
+- Os resultados obtidos indicam uma ausência de correlação significativa, o valor da correlação de Pearson é:-0,0033105926438257737, muito próximo de 0, indicando que praticamente não há relação linear entre o BPM de uma música e o número de stremas que ela recebe. Essa baixa correlação sugere que o BPM não é um fator determinante no sucesso de uma música, medido pelo número de streams.
 
-- As variáveis do estudo não seguem uma distribuição normal, por isso optamos por aplicar o teste U de Mann-Whitney, um teste não paramétrico que compara as distribuições de dois grupos independentes. Nesse caso, ele foi usado para comparar músicas com diferentes faixas de BPM. Foi obtido um valor p de 0,6299027679552872 maior que o nível de significância (0,05), indicando que não há evidência suficiente para rejeitar a hipótese nula, o que significa que não há diferenças significativas no número de transmissões entre músicas com diferentes BPM. Esses resultados sugerem que outros fatores além do BPM podem ser mais importantes para determinar o sucesso de uma música, já que a popularidade do artista, a promoção, o gênero, a letra e outros aspectos da produção musical podem ter um impacto maior.
+- As variáveis do estudo não seguem uma distribuição normal, por isso optamos por aplicar o teste U de Mann-Whitney, um teste não paramétrico que compara as distribuições de dois grupos independentes. Nesse caso, ele foi usado para comparar músicas com diferentes faixas de BPM. Foi obtido um valor p de 0,6299027679552872 maior que o nível de significância (0,05), indicando que não há evidência suficiente para rejeitar a hipótese nula, o que significa que não há diferenças significativas no número de streams entre músicas com diferentes BPM. Esses resultados sugerem que outros fatores além do BPM podem ser mais importantes para determinar o sucesso de uma música, já que a popularidade do artista, a promoção, o gênero, a letra e outros aspectos da produção musical podem ter um impacto maior.
  
  - Em resumo, BPM não é um indicador significativo do sucesso de uma música em termos de streams no Spotify. **Hipótese Rejeitada**.
 
@@ -129,7 +129,7 @@ Os resultados da hipótese 4 são bastante claros e sugerem uma relação signif
 
 - Forte correlação significativa: a alta correlação de Pearson (0,7789441982622838), juntamente com o valor de p-value(4.2222214971206745e-33) extremamente baixo, indica uma relação forte e significativa entre o número total de músicas e o número total de streams.
 
-- Regressão linear explicativa: o R² de 0,70 sugere que o número total de músicas de um artista é um indicador significativo do número total de fluxos, embora ainda haja 30% da variabilidade que pode ser explicada por outros fatores.
+- Regressão linear explicativa: o R² de 0,70 sugere que o número total de músicas de um artista é um indicador significativo do número total de streams, embora ainda haja 30% da variabilidade que pode ser explicada por outros fatores.
 
 - Em resumo, a análise mostra uma relação forte e significativa entre o número total de músicas de um artista no Spotify e o número total de streams que ele recebe. A forte correlação de Pearson e o R² significativo da regressão linear sugerem que ter um número maior de músicas é um fator de sucesso em termos de streams. Embora o número total de músicas explique grande parte da variabilidade dos streams (70%), também é importante considerar outros fatores que podem influenciar o sucesso de um artista, como a popularidade de cada música, as colaborações com outros artistas e as estratégias de marketing.**Hipótese parcialmente confirmada**.
 
@@ -188,3 +188,4 @@ Para que a gravadora e o novo artista aumentem suas chances de sucesso, eles dev
 - https://repositorio.uac.pt/bitstream/10400.3/5365/1/Sousa_CA_21%20Mar%C3%A7o%202019.pdf
 - https://cienciadedatos.net/documentos/py10-regresion-lineal-python
 - https://www.lacupulamusic.com/blog/que-mide-el-exito-de-un-artista-en-la-industria-musical-actual/
+- https://medium.com/ipnet-growth-partner/padronizacao-normalizacao-dados-machine-learning-f8f29246c12
