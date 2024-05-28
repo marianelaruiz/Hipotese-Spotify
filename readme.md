@@ -141,7 +141,48 @@ Os resultados da hipótese 4 são bastante claros e sugerem uma relação signif
 
 - Considerando os resultados dos testes estatísticos, optou-se por refutar a hipótese de que as características das músicas influenciam o sucesso em termos de número de streams no Spotify. Embora algumas características, como "danceability", pareçam ter impacto, outras não demonstraram uma associação clara com o número de streams.**Hipótese refutada**.
 
-💡 Recomendações
+💡 **Recomendações** 💡
+
+Com base nos resultados das hipóteses analisadas, apresentamos aqui uma série de recomendações e estratégias que a gravadora e o novo artista podem seguir para aumentar suas chances de obter sucesso.
+
+1. incluir músicas em listas de reprodução
+  - Estratégia: Esforce-se para incluir músicas no maior número possível de listas de reprodução, especialmente nas listas de reprodução populares selecionadas pelo Spotify.
+  - Ação: Entre em contato e colabore com influenciadores para colocar a música nas listas de reprodução deles.
+
+2. Expansão do catálogo de músicas
+  - Estratégia: Incentive o artista a lançar mais músicas regularmente para aumentar sua presença na plataforma.
+  - Ação: Planejar lançamentos frequentes e manter um fluxo constante de novas músicas para manter os ouvintes interessados e aumentar as chances de serem descobertos.
+
+3. Promoção em várias plataformas de streaming
+  - Estratégia: Não se concentre exclusivamente no Spotify, mas também promova músicas em outras plataformas de streaming, como Deezer e Apple Music.
+  - Ação: otimize os perfis em todas as plataformas, realize campanhas promocionais e busque a inclusão em listas de reprodução em cada serviço.
+
+4. Colaborações estratégicas
+  - Estratégia: Colaborar com artistas que já tenham uma base de ouvintes significativa.
+  - Ação: Buscar oportunidades de colaborações com artistas de gêneros semelhantes ou complementares para atrair seus seguidores.
+
+5. Explorar fatores extramusicais
+  - Estratégia: Concentrar esforços em fatores extramusicais que influenciam o sucesso.
+  - Ação: Investir em marketing digital, mídia social, vídeos musicais envolventes e colaborações com outros artistas populares para aumentar a visibilidade e atrair mais ouvintes.
+
+6. Use dados e análises
+  - Evidência: A análise de dados pode fornecer informações valiosas sobre o que está funcionando e o que não está.
+  - Estratégia: Implemente um sistema de monitoramento contínuo das métricas de desempenho das músicas.
+  - Ação: Use as ferramentas de análise do Spotify for Artists, bem como serviços de terceiros, para obter dados detalhados sobre os ouvintes, sua localização e hábitos de escuta. Ajuste as estratégias de marketing e promoção de acordo.
+
+<!-- Diversificação do Conteúdo Musical: Embora as características das músicas não demonstram uma influência clara no número de streams, é importante diversificar o conteúdo musical para atrair uma ampla audiência. É recomendável experimentar criar músicas com diferentes estilos, ritmos e letras para atingir diferentes públicos-alvo.
+
+Aproveitar Plataformas de Playlist: A presença em playlists é um fator significativo para o sucesso no Spotify. Portanto, é recomendável concentrar-se em promover músicas para curadores de playlists (responsável por criar as playlists editoriais da maneira mais segmentada possível, casando com o público alvo daquele gênero e organizando as músicas que fazem sentido estar dentro da playlist) e tentar garantir inclusões em playlists populares. Isso pode ser feito através de networking, promoção ativa e envio direto das músicas do novo artista para os curadores.
+
+Engajamento com a Audiência: É recomendável construir uma forte presença nas redes sociais e interagir regularmente com a base de fãs. Respondendo a comentários, participando de conversas e compartilhando conteúdos exclusivos para manter os fãs engajados e criar uma comunidade em torno da música do novo artista.
+
+Replicação de Estratégias Bem-Sucedidas: Observar a correlação positiva entre as músicas mais populares no Spotify e seu desempenho nas plataformas Deezer e Apple sugere que estratégias bem-sucedidas no Spotify podem ser replicadas em outras plataformas de streaming. A gravadora pode explorar essas oportunidades para maximizar o alcance do novo artista e aumentar sua base de fãs em diferentes plataformas.
+
+Análise Contínua de Dados: É recomendável se manter atualizado com as tendências do mercado musical e analisar continuamente os dados de streaming das músicas do novo artista. Isso permitirá ajustes e adaptações em sua estratégia conforme necessário para maximizar seu potencial de sucesso.
+
+Colaborações com Artistas Reconhecidos: Se possível sugerimos parcerias com artistas já estabelecidos que podem ajudar a aumentar a visibilidade do novo artista. Procure colaborações com artistas que tenham um grande número de seguidores nas plataformas de streaming, o que pode levar a um aumento no número de streams.
+
+Ao implementar essas sugestões e permanecer flexível e adaptável ao ambiente em constante mudança da indústria musical, o novo artista terá uma melhor chance de alcançar o sucesso desejado. -->
 
 
 ---
@@ -155,3 +196,4 @@ Os resultados da hipótese 4 são bastante claros e sugerem uma relação signif
 
 - https://repositorio.uac.pt/bitstream/10400.3/5365/1/Sousa_CA_21%20Mar%C3%A7o%202019.pdf
 - https://cienciadedatos.net/documentos/py10-regresion-lineal-python
+- https://www.lacupulamusic.com/blog/que-mide-el-exito-de-un-artista-en-la-industria-musical-actual/
