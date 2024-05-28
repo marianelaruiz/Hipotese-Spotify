@@ -179,6 +179,8 @@ Para que a gravadora e o novo artista aumentem suas chances de sucesso, eles dev
 
 ## 📊 **Painel de controle (dashboard) no Power BI**
 
+https://app.powerbi.com/groups/me/reports/53f8f0a7-d24e-4bdd-bc3f-a6b74f28587a/ReportSectionba6084d51d0cd5e70536?experience=power-bi
+
 <img src="img/dashboard.png" alt="Alt text" width="800" height="500">
 
 ---
