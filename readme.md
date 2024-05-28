@@ -12,7 +12,7 @@
   - [**Processamento e análises**](#rocessamento-e-análises)
   - [**Resultados e Conclusões**](#Resultados-e-Conclusões) 
   - [**Google Sheets Dashboard**](#google-sheets-dashboard)
-  -[**Referências:**](#referências)
+  - [**Referências**](#referências)
    
 
 ---
