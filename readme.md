@@ -66,6 +66,7 @@ O objetivo principal desta análise é que a **gravadora e o novo artista possam
 ## 📈 **Fontes de dados**
 - Principal fonte de dados: https://drive.google.com/drive/folders/1HJXQ14woPBi5YhKOiP1mkXgMl6L8lfLs?usp=sharing
 - Manipulação de dados e testes estatísticos em Python(Google Colab): https://colab.research.google.com/drive/1yqDrSCxV1pLNdZte-QVcOxdOQywfsb8J?usp=sharing
+- Link ao relatório: https://app.powerbi.com/groups/me/reports/53f8f0a7-d24e-4bdd-bc3f-a6b74f28587a/ReportSectionba6084d51d0cd5e70536?experience=power-bi&clientSideAuth=0
 
 ---
 
