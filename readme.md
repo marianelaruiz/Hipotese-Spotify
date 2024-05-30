@@ -120,7 +120,7 @@ A partir da análise realizada neste projeto, usando análise exploratória, tes
 
 Os resultados obtidos para a hipótese 3 são bastante reveladores e sugerem uma forte relação entre a presença de uma música nas listas de reprodução e seu número de streams.
 
-- Forte correlação significativa: a alta correlação de Pearson (0,7835372823802433), juntamente com o valor de p extremamente baixo (1,7265274903806566e-247), indica uma relação forte e significativa entre a presença em listas de reprodução e o número de streams.
+- Forte correlação significativa: a alta correlação de Pearson (0,7835372823802433), juntamente com o valor de p extremamente baixo (1.0285341473229822e-197), indica uma relação forte e significativa entre a presença em listas de reprodução e o número de streams.
 - Regressão linear útil, mas não exaustiva: o R² de 0,53 sugere que, embora o número de playlists em que uma música aparece seja um importante indicador do número de streams, outros fatores também desempenham um papel significativo.
 - Em resumo, as variáveis mostram uma relação forte e significativa entre a presença de uma música nas listas de reprodução e o número de streams que ela recebe de acordo com a forte correlação de Pearson. Entretanto, como o R² é de 0,53, também é importante considerar outros fatores que podem influenciar o número de streams.**Hipótese parcialmente confirmada**.
 
@@ -128,7 +128,7 @@ Os resultados obtidos para a hipótese 3 são bastante reveladores e sugerem uma
 
 Os resultados da hipótese 4 são bastante claros e sugerem uma relação significativa entre o número de músicas que um artista tem no Spotify e o número total de streams que ele recebe.
 
-- Forte correlação significativa: a alta correlação de Pearson (0,7789441982622838), juntamente com o valor de p-value(4.2222214971206745e-33) extremamente baixo, indica uma relação forte e significativa entre o número total de músicas e o número total de streams.
+- Forte correlação significativa: a alta correlação de Pearson (0,7789441982622838), juntamente com o valor de p-value(3.11374567674711e-132) extremamente baixo, indica uma relação forte e significativa entre o número total de músicas e o número total de streams.
 
 - Regressão linear explicativa: o R² de 0,70 sugere que o número total de músicas de um artista é um indicador significativo do número total de streams, embora ainda haja 30% da variabilidade que pode ser explicada por outros fatores.
 
